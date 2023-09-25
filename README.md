@@ -1,5 +1,5 @@
 
-# Hey there! 👋 I'm [Ramya]
+# Hey there! 👋 I'm Ramya
 
 🚀 Passionate about web development and the possibilities it holds.
 
